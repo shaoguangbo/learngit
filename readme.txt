@@ -5,6 +5,8 @@ git tracks changes of files.
 creating a new branch is qucik and simple.
 add 1
 add 2.
+fix bug 101.
+
 
 
 
